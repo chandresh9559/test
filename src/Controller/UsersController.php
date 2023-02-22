@@ -115,8 +115,10 @@ class UsersController extends AppController
 
     //     // $this->set(compact('user'));
         
-    // }
+    
 
+
+   // hrfwerwe
     public function profile($id = null)
     {
         $this->viewBuilder()->setLayout('admin_layout');
